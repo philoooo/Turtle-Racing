@@ -1,5 +1,16 @@
 <h1 align="center"> Turtle Racing </h1>
 
+
+<div align="center">
+<img src="https://github.com/philoooo/Turtle-Racing/blob/main/Screenshot%202025-11-01%20at%209.38.37%20PM.png" width="400" >
+</div>
+
+<h1></h1>
+
+I created a turtle racing game. The user is prompted to select a turtle color to bet on. The speeds of all 6 turtles are randomized. Whichever turtle passes by the finish line at the selected coordinate system is crowned the winner!
+
+<h1></h1>
+
 ```
 import random
 from turtle import Turtle, Screen
